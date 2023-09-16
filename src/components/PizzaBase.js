@@ -1,4 +1,3 @@
-// src/components/PizzaBase.js
 
 import React from 'react';
 
